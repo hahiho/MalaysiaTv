@@ -15,11 +15,17 @@ http://93.190.139.35:8278/streams/d/cnn_antik/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Astro_SHX_HD.jpeg/300px-Astro_SHX_HD.jpeg" group-title="Singapore/Malaysia",双星
 http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8	
-#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/File:Astro_Quan_Jia_HD.png" group-title="Singapore/Malaysia",全佳
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/8/86/Astro%E5%85%A8%E4%BD%B3HD.png" group-title="Singapore/Malaysia",全佳
 http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8	
 #EXTINF:-1 tvg-logo="https://p1.ssl.qhimg.com/dmsmty/1080_910_/t011890b3c5ecbf09bc.jpg" group-title="Singapore/Malaysia",天映
 http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8	
-#EXTINF:-1 tvg-logo="https://content.astro.com.my/channels/BERNAMA-160" group-title="Singapore/Malaysia",Bernama
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b1/Bernama_%28logo%29.jpg" group-title="Singapore/Malaysia",Bernama
 http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Dyt4XzyH/aec.png" group-title="Singapore/Malaysia",AEC
 http://ts.lemmovie.com/e47300a4-e511-484f-b6dd-98de1483b71c.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/16/Phoenix_InfoNews.svg/220px-Phoenix_InfoNews.svg.png" group-title="China",凤凰卫视资讯台
+http://112.17.40.140/PLTV/88888888/224/3221226491/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/16/Phoenix_InfoNews.svg/220px-Phoenix_InfoNews.svg.png" group-title="China",凤凰卫视资讯台
+http://117.169.124.37:6610/ysten-businessmobile/live/fhzixun/1.m3u8
+
