@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv3.png" group-title="Singapore/Malaysia",TV3
+http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8	
+#EXTINF:-1 tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/ntv7.png" group-title="Singapore/Malaysia",NTV7 
+http://50.7.161.82:8278/streams/d/NTV7/playlist.m3u8		
+#EXTINF:-1 tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png" group-title="Singapore/Malaysia",8TV 
+http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8	
+#EXTINF:-1 tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv9.png" group-title="Singapore/Malaysia",TV9 
+http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8	
+#EXTINF:-1 tvg-logo="https://media-exp1.licdn.com/dms/image/C560BAQHQ303-nahsMQ/company-logo_200_200/0/1593608716508?e=2159024400&v=beta&t=0iTAFWeb7Ny5RJFedyiIpycLHlMqrdWzckyz76rv1cs" group-title="Singapore/Malaysia",HBO
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/175px-CNN.svg.png" group-title="Singapore/Malaysia",CNN 
+http://93.190.139.35:8278/streams/d/cnn_antik/playlist.m3u8
