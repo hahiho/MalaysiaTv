@@ -13,6 +13,7 @@ http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 http://93.190.139.35:8278/streams/d/cnn_antik/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/Astro_XTY_2019.png" group-title="Singapore/Malaysia",小太阳
 http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Astro_SHX_HD.jpeg/300px-Astro_SHX_HD.jpeg" group-title="Singapore/Malaysia",双星
 http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8	
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/8/86/Astro%E5%85%A8%E4%BD%B3HD.png" group-title="Singapore/Malaysia",全佳
@@ -22,12 +23,35 @@ http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b1/Bernama_%28logo%29.jpg" group-title="Singapore/Malaysia",Bernama
 http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Dyt4XzyH/aec.png" group-title="Singapore/Malaysia",AEC
-http://ts.lemmovie.com/e47300a4-e511-484f-b6dd-98de1483b71c.m3u8
+http://50.7.222.130:8278/streams/d/Aec1511/playlist.m3u8
+##http://ts.lemmovie.com/e47300a4-e511-484f-b6dd-98de1483b71c.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/Astro_Hua_Hee_Dai_(2015).png" group-title="MALAYSIA", Astro HUA HEE TAI
+http://50.7.222.130:8278/streams/d/Huahee/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Astro_AOD_(s17).png" group-title="MALAYSIA",AOD HD
+http://50.7.161.82:8278/streams/d/AodHD/playlist.m3u8
+EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/IQIYI_HD.png" group-title="MALAYSIA", Astro QIYI (TEST)
+http://50.7.222.130:8278/streams/d/Qiyi1511/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/16/Phoenix_InfoNews.svg/220px-Phoenix_InfoNews.svg.png" group-title="Singapore/Malaysia",凤凰卫视资讯台
 http://112.17.40.140/PLTV/88888888/224/3221226491/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/16/Phoenix_InfoNews.svg/220px-Phoenix_InfoNews.svg.png" group-title="Singapore/Malaysia",凤凰卫视资讯台
-http://117.169.124.37:6610/ysten-businessmobile/live/fhzixun/1.m3u8
+http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fox_Movies_%28Asia%29_logo.svg/1200px-Fox_Movies_%28Asia%29_logo.svg.png" group-title="Singapore/Malaysia",FoxMovies
-http://thaicable.myftp.org:8000/live/infosat/2020/1.ts
+NT
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1920px-Cinemax_%28Yellow%29.svg.png" group-title="Singapore/Malaysia",CineMax
 http://thaicable.myftp.org:8000/live/infosat/2020/2.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Gg0ghnn.png" group-title="KIDS",CBEEBIES
+http://51.52.156.22:8888/http/003
+#EXTINF:-1 tvg-logo="https://static.epg.best/gb/CartoonNetwork.uk.png" group-title="KIDS", Cartoon Network
+#http://145.239.255.4:8080/CARUK/mono.m3u8?token=test
+#http://00100.co:2086/79775817/3655144/93238
+http://36.37.252.114:888/Apple/OneTV-090/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/gb/CartoonNetwork.uk.png" group-title="KIDS", Cartoon Network(ASIA)
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CARTOON-SD-720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GRLOlNT.png" group-title="KIDS",Kids Central
+http://nrpus.bozztv.com/36bay2/gusa-kidcentral/index.m3u8
+#EXTINF:-1  tvg-logo="http://www.animationmagazine.net/wordpress/wp-content/uploads/disney-jr-post.jpg" group-title="KIDS", Disney Junior(ASIA)
+http://79.137.41.99/DisneyChannel/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7imquVM.png" group-title="KIDS", Nick junior
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=978&deviceId=5ca6748a37b88b269472dad9&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/Nicktoons-logo655.png" group-title="KIDS", Nicktoon
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=977&deviceId=5ca673e0d0bd6c2689c94ce3&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
