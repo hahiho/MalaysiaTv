@@ -38,6 +38,12 @@ http://112.17.40.140/PLTV/88888888/224/3221226491/index.m3u8
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fox_Movies_%28Asia%29_logo.svg/1200px-Fox_Movies_%28Asia%29_logo.svg.png" group-title="Singapore/Malaysia",FoxMovies
 NT
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/17/TVB_Xing_He_logo_2017.png",TVB星河台
+http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-KJDT0M0Dxps/WnFTuqoK7FI/AAAAAAAAHEI/ROo_jjVjxqA1goBTkwRG5ladyMFCg0opACLcBGAs/s640/celestial%2Bclassic%2Bmovies.jpeg",CCM
+http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1920px-Cinemax_%28Yellow%29.svg.png" group-title="Singapore/Malaysia",CineMax
 http://thaicable.myftp.org:8000/live/infosat/2020/2.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Gg0ghnn.png" group-title="KIDS",CBEEBIES
