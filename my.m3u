@@ -27,11 +27,34 @@ http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Dyt4XzyH/aec.png" group-title="Singapore/Malaysia",AEC
 
 ##http://50.7.222.130:8278/streams/d/Aec1511/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Aec/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Dyt4XzyH/aec.png" group-title="Singapore/Malaysia",AEC
 http://ts.lemmovie.com/e47300a4-e511-484f-b6dd-98de1483b71c.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/Astro_Hua_Hee_Dai_(2015).png" group-title="MALAYSIA", Astro HUA HEE TAI
 ##http://50.7.222.130:8278/streams/d/Huahee/playlist.m3u8
-EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/IQIYI_HD.png" group-title="MALAYSIA", Astro QIYI (TEST)
-##http://50.7.222.130:8278/streams/d/Qiyi1511/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/AstroWahLaiToihdlogo.jpg/300px-AstroWahLaiToihdlogo.jpg" group-title="MALAYSIA",Astro WAH LAI TOI(TEST)
+#http://198.16.106.58:8278/streams/d/Wlt/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Wlt/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Astro_AOD_%28s17%29.png" group-title="MALAYSIA",AOD HD(TEST)
+#http://198.16.106.58:8278/streams/d/AodHD/playlist.m3u8
+#https://nonton.site:8443/novi/novi123/37357
+http://185.180.221.194:8278/streams/d/AodHD/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/IQIYI_HD.png" group-title="MALAYSIA", Astro QIYI (TEST)
+#http://50.7.222.130:8278/streams/d/Qiyi1511/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Qiyi/playlist.m3u8
+http://50.7.222.130:8278/streams/d/Qiyi1511/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/Astro_Hua_Hee_Dai_%282015%29.png" group-title="MALAYSIA", Astro HUA HEE TAI(TEST)
+#https://nonton.site:8443/novi/novi123/37363
+#http://50.7.222.130:8278/streams/d/Huahee/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Huahee/playlist.m3u8
+#http://51.79.208.146:61980/myplay/c_58026/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/16/Phoenix_InfoNews.svg/220px-Phoenix_InfoNews.svg.png" group-title="Singapore/Malaysia",凤凰卫视资讯台
 http://112.17.40.140/PLTV/88888888/224/3221226491/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/16/Phoenix_InfoNews.svg/220px-Phoenix_InfoNews.svg.png" group-title="Singapore/Malaysia",凤凰卫视资讯台
