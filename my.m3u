@@ -1,5 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv2.png" group-title="Singapore/Malaysia",TV3
+##[Malaysia]
+#EXTINF:-1 tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv2.png" group-title="Singapore/Malaysia",TV2
 http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8	
 #EXTINF:-1 tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv3.png" group-title="Singapore/Malaysia",TV3
 http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8	
@@ -10,8 +11,6 @@ http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv9.png" group-title="Singapore/Malaysia",TV9 
 http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8	
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/175px-CNN.svg.png" group-title="Singapore/Malaysia",CNN 
-http://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
 
 ##[Astro]
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/Astro_XTY_2019.png" group-title="Singapore/Malaysia",小太阳
@@ -50,8 +49,15 @@ http://50.7.222.130:8278/streams/d/Qiyi1511/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Huahee/playlist.m3u8
 #http://51.79.208.146:61980/myplay/c_58026/index.m3u8
 
+
+
+[News]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/175px-CNN.svg.png" group-title="Singapore/Malaysia",CNN 
+http://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b1/Bernama_%28logo%29.jpg" group-title="Singapore/Malaysia",Bernama
 http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
+
+
 
 ##[HongKong]
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb
@@ -78,6 +84,7 @@ http://136.243.177.164/HBO3/playlist.m3u8
 http://136.243.177.164/CINEMAX/playlist.m3u8
 http://thaicable.myftp.org:8000/live/infosat/2020/2.ts
 
+##[Cartoon]
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Gg0ghnn.png" group-title="KIDS",CBEEBIES
 http://51.52.156.22:8888/http/003
 #EXTINF:-1 tvg-logo="https://static.epg.best/gb/CartoonNetwork.uk.png" group-title="KIDS", Cartoon Network
