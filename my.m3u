@@ -15,6 +15,8 @@ http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
 ##[Astro]
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/Astro_XTY_2019.png" group-title="Singapore/Malaysia",小太阳
 http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Xiaotaiyang/playlist.m3u8
+https://github.com/hahiho/MalaysiaTv/blob/main/
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Dyt4XzyH/aec.png" group-title="Singapore/Malaysia",AEC
 ##http://50.7.222.130:8278/streams/d/Aec1511/playlist.m3u8
