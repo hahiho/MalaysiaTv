@@ -59,7 +59,8 @@ http://185.180.221.194:8278/streams/d/Huahee/playlist.m3u8
 http://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b1/Bernama_%28logo%29.jpg" group-title="Singapore/Malaysia",Bernama
 http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
-
+#EXTINF:-1 tvg-id=" " group-title="News" tvg-logo="https://i.pinimg.com/originals/08/14/3f/08143f803bf851ad3386e7238e3b7e0e.jpg",Al Jazeera
+https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 
 
 ##[HongKong]
@@ -74,18 +75,40 @@ NT
 http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-KJDT0M0Dxps/WnFTuqoK7FI/AAAAAAAAHEI/ROo_jjVjxqA1goBTkwRG5ladyMFCg0opACLcBGAs/s640/celestial%2Bclassic%2Bmovies.jpeg",CCM
 http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/ultraverse/images/7/73/TVB_Logo.png/revision/latest?cb=20191220185029" tvg-name="" group-title="香港",TVB Jade
+http://190.2.133.47:8278/streams/d/Jade/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY - TVB XING HE HD" tvg-logo="https://www.tvchinese.net/uploads/tv/tvb-xinhe.jpg" group-title="China",TVB XING HE
+http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 
 ##[Movie]
 #EXTINF:-1 tvg-logo="https://media-exp1.licdn.com/dms/image/C560BAQHQ303-nahsMQ/company-logo_200_200/0/1593608716508?e=2159024400&v=beta&t=0iTAFWeb7Ny5RJFedyiIpycLHlMqrdWzckyz76rv1cs" group-title="Singapore/Malaysia",HBO
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 http://136.243.177.164/HBO/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://media-exp1.licdn.com/dms/image/C560BAQHQ303-nahsMQ/company-logo_200_200/0/1593608716508?e=2159024400&v=beta&t=0iTAFWeb7Ny5RJFedyiIpycLHlMqrdWzckyz76rv1cs" group-title="Singapore/Malaysia",HBO2
-http://136.243.177.164/HBO2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://media-exp1.licdn.com/dms/image/C560BAQHQ303-nahsMQ/company-logo_200_200/0/1593608716508?e=2159024400&v=beta&t=0iTAFWeb7Ny5RJFedyiIpycLHlMqrdWzckyz76rv1cs" group-title="Singapore/Malaysia",HBO3
-http://136.243.177.164/HBO3/playlist.m3u8
+http://thaicable.myftp.org:8000/live/infosat/2020/2.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID: HBO Family" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/400px-HBO_Family_Asia_logo.svg.png" group-title="Movie", HBO Family
+https://liveorigin01.hbogoasia.com:8443/origin/live/FAMILY/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ID: HBO Hits" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="Movies", HBO Hits
+http://185.180.221.194:8278/streams/d/Hbohits/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO Signature SD" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_signature.png" group-title="Movie",HBO Signature
+http://185.180.221.194:8278/streams/d/Hbosignature/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Red By HBO HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/70/REDBYHBO.png" group-title="Movie",HBO RED
+https://liveorigin01.hbogoasia.com:8443/origin/live/RED/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/322_300.png" group-title="Movies",Celestial Movies
+http://210.210.155.35/qwr9ew/s/s33/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1920px-Cinemax_%28Yellow%29.svg.png" group-title="Singapore/Malaysia",CineMax
 http://136.243.177.164/CINEMAX/playlist.m3u8
-http://thaicable.myftp.org:8000/live/infosat/2020/2.ts
+
+
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/395_300.png" group-title="TV PREMIUM",TVN HD
+http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVNMovies.id" tvg-name="tVN Movies HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaTiLRA2QhTQQrDpfY7m-wJSLEggFESRIjKA&usqp=CAU" group-title="Korea",tVN Movies
+http://185.180.221.194:8278/streams/d/Tvnmovie/playlist.m3u8
+
+
+
 
 ##[Cartoon]
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Gg0ghnn.png" group-title="KIDS",CBEEBIES
@@ -104,16 +127,73 @@ http://nrpus.bozztv.com/36bay2/gusa-kidcentral/index.m3u8
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=978&deviceId=5ca6748a37b88b269472dad9&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7imquVM.png" group-title="KIDS", Nickelodeon junior1
 185.180.221.194:8278/streams/d/Nickjr/playlist.m3u8
-
+#EXTINF:-1 tvg-id="AnimalPlanet.id" tvg-name="Disney Junior" tvg-logo="https://mncvision.id/userfiles/image/channel/disney_junior.png" group-title="Kids",Disney Junior
+http://51.79.82.231:8080/US_DISNEY_JR_EAST_USA/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CBeebies" tvg-logo="https://static.filmon.com/assets/channels/3191/extra_big_logo.png" group-title="Kids",CBeebies
+http://185.180.221.194:8278/streams/d/Cbeebies/playlist.m3u8
+#EXTINF:-1 tvg-id="BabyTV.uk" tvg-name="Baby TV" tvg-logo="https://mncvision.id/userfiles/image/channel/baby_tv.png" group-title="Kids",Baby TV
+http://185.180.221.194:8278/streams/d/Babytv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon ID" tvg-logo="https://www.pngfind.com/pngs/m/296-2965113_94kib-1024x768-splat-nickelodeon-splat-logo-png-transparent.png" group-title="Kids",Nickelodeon
+http://185.180.221.194:8278/streams/d/Nickelodeon/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/419_144.png" group-title="KIDS", Animax HD
+http://185.180.221.194:8278/streams/d/Animax/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/Nicktoons-logo655.png" group-title="KIDS", Nicktoon
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=977&deviceId=5ca673e0d0bd6c2689c94ce3&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/03/Nickelodeon-logo.jpg" group-title="KIDS", Nickelodeon
-http://185.180.221.194:8278/streams/d/Nickelodeon/playlist.m3u8
+
+
+##[Documentary]
+#EXTINF:-1 tvg-country="" tvg-logo="https://img.favpng.com/13/18/4/discovery-channel-logo-television-channel-discovery-inc-png-favpng-s7KJJLeavn2MtqhYeGf5rbYtH.jpg" group-title="",DISCOVERY CHANNEL Asia
+http://185.180.221.194:8278/streams/d/Discoveryhd/playlist.m3u8
+#EXTINF:-1 tvg-country="" tvg-logo="https://i.pinimg.com/originals/50/47/55/5047550d7fe1c855dec048aa83be12ae.png" group-title="",ANIMAL PLANET
+http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
+#EXTINF:0 tvg-name="History" tvg-language="English" tvg-country="MY" tvg-id="History" tvg-logo="https://2.bp.blogspot.com/-QSfFAp_jqP0/T3DH2aXPHUI/AAAAAAAABdg/5a9_qDD92AQ/s1600/h5.png" group-title="Documentary",History
+http://185.180.221.194:8278/streams/d/History/playlist.m3u8
+#EXTINF:-1 tvg-id="nationalgeographicchannelhd.id" tvg-name="Nat Geo HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeo_small.png" group-title="Knowledge",Nat Geo HD
+http://185.180.221.194:8278/streams/d/Natgeo/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/550_300.png" group-title="TV MALAYSIA",NAT GEO wild
+http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/199_144.png" group-title="TV MALAYSIA",NAT GEO People
+http://185.180.221.194:8278/streams/d/Natgeopeople/playlist.m3u8
+
+
+##[Korean]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Korean" tvg-logo="https://i.imgur.com/4DEUpdm.jpg" group-title="",K+
+#http://45.126.83.51:80/session/b4b90d8c-1971-11e9-93aa-84c89f2f5f8f/uq2663/h/h08/01.m3u8
+http://50.7.161.82:8278/streams/d/KiX/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_(2009).svg/1280px-KBS_World_(2009).svg.png" group-title="",KBS WORLD
+http://50.7.161.82:8278/streams/d/KBS/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KBS1.kr" tvg-name="KBS 1" tvg-country="KR" tvg-language="Korean" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/langfr-220px-KBS_1_logo.svg.png" tvg-url="" group-title="South Korea",KBS II
+http://121.130.210.101:9981/stream/channelid/637185705
+#EXTINF:-1 tvg-id=" " group-title="International" tvg-logo="http://arirang.com/images/index/arirang.png",Arirang TV
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+
+#EXTINF:0 tvg-country="KR" tvg-logo="https://i.imgur.com/fdFQonN.jpg" group-title="South Korea(23)",YTN DMB
+http://slive.ytn.co.kr:1935/dmb/ydlive_20140419_1/playlist.m3u8?checkedby
+
+#EXTINF:0 tvg-country="KR" tvg-logo="https://i.imgur.com/FIzME5L.jpg" group-title="South Korea(23)",YTN SCIENCE
+http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
+
+#EXTINF:0 tvg-country="KR" tvg-logo="https://i.imgur.com/JNmRU3V.png" group-title="South Korea(23)",SBS International
+https://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/live/SBS_Live_HD_1500k/playlist.m3u8
+
+#EXTINF:0 tvg-country="KR" tvg-logo="https://i.imgur.com/lJdOstp.png" group-title="South Korea(23)",SBS Plus
+https://streaming-a-802.cdn.nextologies.com/SBS_Plus/live/SBS_Plus_1500k/playlist.m3u8
+
+#EXTINF:0 tvg-country="KR" tvg-logo="https://i.imgur.com/S1YWrNd.jpg" group-title="South Korea(23)",SBS Star
+https://streaming-a-802.cdn.nextologies.com/SBS_18/playlist.m3u8
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/Bloomberg_Television#/media/File:Bloomberg_Television_2016.png" group-title="KIDS", Bloomberg Asia
 https://www.bloomberg.com/media-manifest/streams/asia.m3u8 
 
+
+##[TaiWan]
 #EXTINF:-1 tvg-logo="https://zh.wikipedia.org/wiki/%E6%9D%B1%E6%A3%AE%E6%96%B0%E8%81%9E%E5%8F%B0#/media/File:51chEBCNewslogo.jpg" group-title="News",东森新闻 FHD
 http://seb.sason.top/sc/dsxw_fhd.m3u8 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/1c/Tvbsnews.png" group-title="News",TVBS新聞台HD
@@ -139,6 +219,119 @@ http://seb.sason.top/sc/dsxw_fhd.m3u8
 #EXTINF:-1 tvg-id="DLC.TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png" group-title="台湾",東森財經新聞
 http://seb.sason.top/sc/dscjxw_fhd.m3u8
 
+##[China]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bKgwJZb.png?1" group-title="TV Mandarin",JIANGSU
+#http://39.134.168.91/PLTV/1/224/3221225512/index.m3u8
+http://111.20.105.60:6060/yinhe/2/ch00000090990000001032/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rciggYQ.jpg" group-title="TV Mandarin",HUNAN
+#http://39.134.66.66/PLTV/88888888/224/3221225506/index.m3u8
+http://111.20.105.60:6060/yinhe/2/ch00000090990000001027/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i6V7fmU.jpg" group-title="TV Mandarin",SHENZHEN
+http://39.134.66.66/PLTV/88888888/224/3221225668/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.masmiri.50webs.com/page2/Satelite TV/BTV.PNG" group-title="TV Mandarin",BEIJING
+http://39.134.66.66/PLTV/88888888/224/3221225678/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.masmiri.50webs.com/page2/Satelite TV/Dragon tv.png" group-title="TV Mandarin",东方卫视
+#http://39.134.66.66/PLTV/88888888/224/3221225672/index.m3u8
+http://111.20.105.60:6060/yinhe/2/ch00000090990000001028/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+
+#EXTINF:-1 tvg-logo="http://www.masmiri.50webs.com/page2/Satelite TV/Hebei tv.jpg" group-title="TV Mandarin",Hebei
+http://39.134.66.66/PLTV/88888888/224/3221225495/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Mandarin" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7e/HNTV_new_logo.png" group-title="China",Henan
+http://39.134.168.91/PLTV/1/224/3221225584/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R6k95Pg.jpg" group-title="TV Mandarin",TIANJIN
+#http://101.71.255.229:6610/zjhs/2/10047/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+http://39.134.66.66/PLTV/88888888/224/3221225665/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cVKLZYm.jpg" group-title="TV Mandarin",HUBEI
+#http://39.134.66.66/PLTV/88888888/224/3221225594/index.m3u8
+http://39.134.66.66/PLTV/88888888/224/3221225569/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DrYc2O6.png" group-title="TV Mandarin",CHONGQING
+http://39.134.66.66/PLTV/88888888/224/3221225502/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8tw7llF.png" group-title="TV Mandarin",JIANGXI
+http://39.134.66.66/PLTV/88888888/224/3221225512/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Zhejiang" tvg-logo="https://www.tvchinese.net/uploads/tv/zjgj.jpg" group-title="China",Zhejiang
+http://111.20.105.60:6060/yinhe/2/ch00000090990000001026/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="AnHui" tvg-name="安徽人物" tvg-country="CN" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" tvg-url="" group-title="",ANHui
+http://39.134.168.91/PLTV/1/224/3221225548/index.m3u8
+
+#EXTINF:-1 tvg-id="Hainan" tvg-name="hainan" tvg-country="CN" tvg-language="" tvg-logo="https://www.tvchinese.net/uploads/tv/hainantv.jpg" tvg-url="" group-title="",Hainan
+http://39.134.168.91/PLTV/1/224/3221225620/index.m3u8
+
+#EXTINF:-1 tvg-country="CN" tvg-logo="https://i.imgur.com/BHUh7hq.jpg" group-title="",CCTV-1综合
+#http://101.71.255.229:6610/zjhs/2/10078/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+http://cctvalih5ca.v.myalicdn.com/live/cctv1_2/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CCTV2" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/34/CCTV-2_Logo.svg/800px-CCTV-2_Logo.svg.png" group-title="",CCTV-2 财经
+#http://cctvalih5ca.v.myalicdn.com/live/cctv2_2/index.m3u8
+http://117.169.119.199:8080/live/cctv-2/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CN" tvg-language="" tvg-logo="https://i.imgur.com/l8PQ7fy.jpg" group-title="",CCTV 4europe
+https://cctvcnch5ca.v.wscdns.com/live/cctveurope_2/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CN" tvg-language="" tvg-logo="http://masmiri.50webs.com/page2/cctv/cctv4.jpg" group-title="",CCTV 4 Asia
+http://185.180.221.194:8278/streams/d/Cctv4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CN" tvg-language="" tvg-logo="https://p2.img.cctvpic.com/photoAlbum/page/performance/img/2019/9/11/1568167382705_947.jpg" group-title="",CCTV 5
+#http://117.169.119.199:8080/live/cctv-5/index.m3u8
+http://cctvalih5ca.v.myalicdn.com/live/cctv5_2/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CN" tvg-language="" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/page/performance/img/2019/12/16/1576480496280_505.jpg" group-title="",CCTV 5+
+#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225689/index.m3u8
+http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CCTV8" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://www.masmiri.50webs.com/page2/cctv/cctv8.jpg"8group-title="TV Series",CCTV-8 TV Series
+#http://117.169.119.199:8080/live/cctv-8/index.m3u8
+http://cctvalih5ca.v.myalicdn.com/live/cctv8_2/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CCTV9" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/11/CCTV-9_Logo.png" group-title="",CCTV-9 Earth 纪录
+http://cctvalih5ca.v.myalicdn.com/live/cctvjilu_2/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CCTV10" tvg-language="chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/fd/CCTV-10_Logo.png" group-title="",CCTV-10科教
+#http://cctvalih5ca.v.myalicdn.com/live/cctv10_2/index.m3u8
+http://117.169.119.199:8080/live/cctv-10/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.masmiri.50webs.com/page2/cctv/cctv11.jpg" group-title="CCTV",CCTV11 Drama
+#http://117.169.119.199:8080/live/cctv-11/index.m3u8
+http://cctvalih5ca.v.myalicdn.com/live/cctv11_2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/k4mF3pn2/CCTV-12-Logo.png" group-title="CCTV",CCTV12 社會與法
+#http://cctvalih5ca.v.myalicdn.com/live/cctv12_2/index.m3u8
+http://117.169.119.199:8080/live/cctv-12/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CCTV13" tvg-language="chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0b/CCTV-13_Logo.png" group-title="News",CCTV-13 News
+#http://cctvalih5ca.v.myalicdn.com/live/cctv13_2/index.m3u8
+http://117.169.119.199:8080/live/cctv-13/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CCTV15" tvg-language="chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f8/CCTV-15_Logo.png" group-title="Music",CCTV-15 Music
+#http://117.169.119.199:8080/live/cctv-15/index.m3u8
+http://cctvalih5ca.v.myalicdn.com/live/cctv15_2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rybsDtrJ/CCTV-17-Logo.png" group-title="CCTV",CCTV17農業農村
+#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
+#http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
+http://cctvalih5ca.v.myalicdn.com/live/cctv17_2/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ID: BBC Earth" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="Indonesia", BBC Earth
+http://185.180.221.194:8278/streams/d/Bbcearth/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malay" tvg-logo="http://masmiri.50webs.com/BBC.png" group-title="News",BBC
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+
+#EXTINF:-1 tvg-id="Channel NewsAsia" tvg-name="Channel NewsAsia" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/1200px-CNA_new_logo.svg.png" group-title="News",CNA HD
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CNN International" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Cnn_logo_red_background.png/200px-Cnn_logo_red_background.png" group-title="News",CNN International
+http://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
 
 
 
