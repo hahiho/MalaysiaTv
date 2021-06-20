@@ -106,7 +106,8 @@ http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVNMovies.id" tvg-name="tVN Movies HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaTiLRA2QhTQQrDpfY7m-wJSLEggFESRIjKA&usqp=CAU" group-title="Korea",tVN Movies
 http://185.180.221.194:8278/streams/d/Tvnmovie/playlist.m3u8
-
+#EXTINF:-1, tvg-logo="https://images.mypadtv.com/foxmovies.jpg", group-title="MOVIE",FOX MOVIES HD
+http://185.180.221.194:8278/streams/d/Foxhd/playlist.m3u8
 
 
 
@@ -122,6 +123,7 @@ https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CARTOON-SD-720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GRLOlNT.png" group-title="KIDS",Kids Central
 http://nrpus.bozztv.com/36bay2/gusa-kidcentral/index.m3u8
 ###EXTINF:-1  tvg-logo="http://www.animationmagazine.net/wordpress/wp-content/uploads/disney-jr-post.jpg" group-title="KIDS", Disney Junior(ASIA)
+http://185.180.221.194:8278/streams/d/Disneyjr/playlist.m3u8
 ##http://79.137.41.99/DisneyChannel/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7imquVM.png" group-title="KIDS", Nickelodeon junior
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=978&deviceId=5ca6748a37b88b269472dad9&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
@@ -155,6 +157,9 @@ http://185.180.221.194:8278/streams/d/Natgeo/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/199_144.png" group-title="TV MALAYSIA",NAT GEO People
 http://185.180.221.194:8278/streams/d/Natgeopeople/playlist.m3u8
+#EXTINF:-1 tvg-ID=TLC.id group-title=ENTERTAINMENT tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/338_144.png",TLC
+http://185.180.221.194:8278/streams/d/Tlc/playlist.m3u8
+
 
 
 ##[Korean]
@@ -383,9 +388,7 @@ https://www.livedoomovies.com/02_AXNHD_720p/chunklist.m3u8
  
 #EXTINF:-1 tvg-logo="https://static.epg.best/pa/AandELatinAmerica.pa.png" group-title="ENTERTAINMENT", A & E
  
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/BYUtv_logo.svg/1200px-BYUtv_logo.svg.png" group-title="ENTERTAINMENT", BYU TV
-#EXTINF:-1 tvg-logo="http://stvron.com/canale/512/bollywood-tv.png" group-title="ENTERTAINMENT",Bollywood TV
-http://a.jsrdn.com/broadcast/d5b45/+0000/high/c.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/rtl-cbs-entertainment.png" group-title="ENTERTAINMENT", Blue Ant ENTERTAINMENT
 https://livecdn.fptplay.net/hda/blueantent_hls.smil/chunklist_b2500000.m3u8
 
