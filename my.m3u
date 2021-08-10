@@ -54,12 +54,12 @@ http://50.7.222.130:8278/streams/d/Qiyi1511/playlist.m3u8
 #http://185.180.221.194:8278/streams/d/Huahee/playlist.m3u8
 #http://51.79.208.146:61980/myplay/c_58026/index.m3u8
 http://iptv.tvmalaysia.cc/penang172/penang172/6722
-
+http://50.7.161.82:8278/streams/d/huahee_pye/playlist.m3u8
 
 
 [News]
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/175px-CNN.svg.png" group-title="Singapore/Malaysia",CNN 
-http://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b1/Bernama_%28logo%29.jpg" group-title="Singapore/Malaysia",Bernama
 http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
 #EXTINF:-1 tvg-id=" " group-title="News" tvg-logo="https://i.pinimg.com/originals/08/14/3f/08143f803bf851ad3386e7238e3b7e0e.jpg",Al Jazeera
