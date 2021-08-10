@@ -115,6 +115,8 @@ http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Tvnmovie/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/foxmovies.jpg", group-title="MOVIE",FOX MOVIES HD
 http://185.180.221.194:8278/streams/d/Foxhd/playlist.m3u8
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/927804583014887425/PUT8Ilj9_400x400.jpg", group-title="MOVIE",Prive HD
+http://www.reloltv.com/play.php?video=https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8&about=Watch%20&prive%20HD%20online%20TV%20live
 
 
 
