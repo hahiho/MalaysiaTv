@@ -50,9 +50,10 @@ http://50.7.161.82:8278/streams/d/aod_pye/playlist.m3u8
 http://50.7.222.130:8278/streams/d/Qiyi1511/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/Astro_Hua_Hee_Dai_%282015%29.png" group-title="MALAYSIA", Astro 欢喜台
 #https://nonton.site:8443/novi/novi123/37363
-http://50.7.161.82:8278/streams/d/Huahee/playlist.m3u8
-http://185.180.221.194:8278/streams/d/Huahee/playlist.m3u8
+##http://50.7.161.82:8278/streams/d/Huahee/playlist.m3u8
+#http://185.180.221.194:8278/streams/d/Huahee/playlist.m3u8
 #http://51.79.208.146:61980/myplay/c_58026/index.m3u8
+http://iptv.tvmalaysia.cc/penang172/penang172/6722
 
 
 
