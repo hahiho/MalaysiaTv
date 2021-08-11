@@ -790,16 +790,20 @@ https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
  
 #EXTNF:-1 group-title="DOCUMENTARY",
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/831_300.png" group-title="SPORTS", ASTRO SPORT 1
-http://36.37.252.114:888/Apple/OneTV-043/playlist.m3u8
+#http://36.37.252.114:888/Apple/OneTV-043/playlist.m3u8
 #http://50.7.222.130:8278/streams/d/Assp1/playlist.m3u8
+http://50.7.161.82:8278/streams/d/assp1_pye/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/832_300.png" group-title="SPORTS", ASTRO SPORT 2
 #http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8
-http://36.37.252.114:888/Apple/OneTV-043/playlist.m3u8
+#http://36.37.252.114:888/Apple/OneTV-043/playlist.m3u8
+http://50.7.161.82:8278/streams/d/assp2_pye/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/833_300.png" group-title="SPORTS", ASTRO SPORT 3
-http://36.37.252.114:888/Apple/OneTV-044/playlist.m3u8
+#http://36.37.252.114:888/Apple/OneTV-044/playlist.m3u8
 #http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8
+http://50.7.161.82:8278/streams/d/assp3_pye/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/834_300.png" group-title="SPORTS", ASTRO SPORT 4
-http://50.7.222.130:8278/streams/d/Assp4/playlist.m3u8
+#http://50.7.222.130:8278/streams/d/Assp4/playlist.m3u8
+http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/801_300.png" group-title="SPORTS",Astro Arena
 http://50.7.161.82:8278/streams/d/Arena/playlist.m3u8
