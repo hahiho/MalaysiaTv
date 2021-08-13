@@ -1,0 +1,13 @@
+#EXTM3U
+##[Malaysia]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9f/TV2_Logo_2011.png" group-title="Singapore/Malaysia",TV2
+http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8	
+#EXTINF:-1 tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv3.png" group-title="Singapore/Malaysia",TV3
+http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8	
+#EXTINF:-1 tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/ntv7.png" group-title="Singapore/Malaysia",NTV7 
+http://50.7.161.82:8278/streams/d/NTV7/playlist.m3u8		
+#EXTINF:-1 tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png" group-title="Singapore/Malaysia",8TV 
+http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8	
+#EXTINF:-1 tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv9.png" group-title="Singapore/Malaysia",TV9 
+http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8	
+
