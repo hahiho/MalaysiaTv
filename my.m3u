@@ -23,3 +23,10 @@ http://185.180.221.194:8278/streams/d/Xiaotaiyang/playlist.m3u8
 http://50.7.161.82:8278/streams/d/aec_pye/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Dyt4XzyH/aec.png" group-title="Singapore/Malaysia",AEC_Old
 http://ts.lemmovie.com/e47300a4-e511-484f-b6dd-98de1483b71c.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Astro_SHX_HD.jpeg/300px-Astro_SHX_HD.jpeg" group-title="Singapore/Malaysia",双星
+http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8	
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/46/Astro_Quan_Jia_HD.png" group-title="Singapore/Malaysia",全佳
+http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8	
+#EXTINF:-1 tvg-logo="https://p1.ssl.qhimg.com/dmsmty/1080_910_/t011890b3c5ecbf09bc.jpg" group-title="Singapore/Malaysia",天映
+http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8	
