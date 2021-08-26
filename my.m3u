@@ -61,7 +61,7 @@ http://50.7.161.82:8278/streams/d/huahee_pye/playlist.m3u8
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/175px-CNN.svg.png" group-title="Singapore/Malaysia",CNN2
-s://cnn-cnninternational-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+https://cnn-cnninternational-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/175px-CNN.svg.png" group-title="Singapore/Malaysia",CNN3
 #http://stream.tvtap.live:8081/live/us-cnn.stream/playlist.m3u8
