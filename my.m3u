@@ -90,8 +90,8 @@ https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 #http://117.169.124.43:6610/ysten-businessmobile/live/fhzixun/index.m3u8  
 #http://223.82.250.72/live/fhzixun/1.m3u8
 #http://117.169.120.138:8080/live/fhzixun/.m3u8
-http://183.207.249.35/PLTV/3/224/3221226923/index.m3u8  
-
+#http://183.207.249.35/PLTV/3/224/3221226923/index.m3u8  
+http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/16/Phoenix_InfoNews.svg/220px-Phoenix_InfoNews.svg.png" group-title="Singapore/Malaysia",凤凰卫视资讯台
