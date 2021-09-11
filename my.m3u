@@ -26,8 +26,10 @@ http://ts.lemmovie.com/e47300a4-e511-484f-b6dd-98de1483b71c.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Astro_SHX_HD.jpeg/300px-Astro_SHX_HD.jpeg" group-title="Singapore/Malaysia",双星
 http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8	
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/46/Astro_Quan_Jia_HD.png" group-title="Singapore/Malaysia",全佳
 http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8	
+
 #EXTINF:-1 tvg-logo="https://p1.ssl.qhimg.com/dmsmty/1080_910_/t011890b3c5ecbf09bc.jpg" group-title="Singapore/Malaysia",天映
 http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8	
 
@@ -35,7 +37,8 @@ http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/AstroWahLaiToihdlogo.jpg/300px-AstroWahLaiToihdlogo.jpg" group-title="MALAYSIA",华丽台
 ##http://198.16.106.58:8278/streams/d/Wlt/playlist.m3u8
 ##http://50.7.161.82:8278/streams/d/Wlt/playlist.m3u8
-http://185.180.221.194:8278/streams/d/Wlt/playlist.m3u8
+##http://185.180.221.194:8278/streams/d/Wlt/playlist.m3u8
+http://198.16.106.62:8278/streams/d/Wlt/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Astro_AOD_%28s17%29.png" group-title="MALAYSIA",AOD HD
 ##http://50.7.161.82:8278/streams/d/AodHD/playlist.m3u8
@@ -43,17 +46,21 @@ http://185.180.221.194:8278/streams/d/Wlt/playlist.m3u8
 ##https://nonton.site:8443/novi/novi123/37357
 ##http://185.180.221.194:8278/streams/d/AodHD/playlist.m3u8
 http://50.7.161.82:8278/streams/d/aod_pye/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/IQIYI_HD.png" group-title="MALAYSIA", Astro 爱奇艺
 ##http://50.7.222.130:8278/streams/d/Qiyi1511/playlist.m3u8
 ##http://185.180.221.194:8278/streams/d/Qiyi/playlist.m3u8
 ##http://50.7.222.130:8278/streams/d/Qiyi1511/playlist.m3u8
 http://50.7.161.82:8278/streams/d/iqiyi_pye/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/Astro_Hua_Hee_Dai_%282015%29.png" group-title="MALAYSIA", Astro 欢喜台
 #https://nonton.site:8443/novi/novi123/37363
 ##http://50.7.161.82:8278/streams/d/Huahee/playlist.m3u8
 ##http://185.180.221.194:8278/streams/d/Huahee/playlist.m3u8
 ##http://51.79.208.146:61980/myplay/c_58026/index.m3u8
-http://50.7.161.82:8278/streams/d/huahee_pye/playlist.m3u8
+##http://50.7.161.82:8278/streams/d/huahee_pye/playlist.m3u8
+http://198.16.106.62:8278/streams/d/Huahee/playlist.m3u8
+
 
 
 [News]
@@ -113,6 +120,15 @@ http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/ultraverse/images/7/73/TVB_Logo.png/revision/latest?cb=20191220185029" tvg-name="" group-title="香港",TVB Jade
 http://190.2.133.47:8278/streams/d/Jade/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MY - TVB XING HE HD" tvg-logo="https://www.tvchinese.net/uploads/tv/tvb-xinhe.jpg" group-title="China",TVB XING HE
+http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="MY - TVB XING HE HD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="China",翡翠台
+http://198.16.106.62:8278/streams/d/Wlt/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/hk/TVBJ2.hk.png" group-title="HONGKONG/MACAU", J2
+http://185.207.176.189:8080/channels/tv-82/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/314_300.png" group-title="HONGKONG/MACAU", TVB星河
 http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 
 ##[Movie]
